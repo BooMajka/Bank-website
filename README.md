@@ -1,4 +1,4 @@
-# BankList_App
+# Bank website
 Simple layout
 
 # DEMO
