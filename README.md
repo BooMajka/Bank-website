@@ -1,6 +1,8 @@
 # BankList_App
-Bank account application
+Simple layout
 
+# DEMO
+Simple layout
 
 # Technology
 - JavaScript ES6
